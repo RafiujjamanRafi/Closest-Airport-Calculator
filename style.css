@@ -6,11 +6,12 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: #f0f2f5;
   color: #333;
   padding: 1rem;
   overflow-x: hidden;
+  /* background removed or changed to white */
 }
+
 
 .container {
   max-width: 600px;
